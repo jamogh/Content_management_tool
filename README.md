@@ -1,5 +1,5 @@
 # Content-Management-Tool
-This is the Task 2 assigned by Bharat Intern June 2023 Batch
+This is the Task 1 assigned by Bharat Intern June 2023 Batch
 
 
 Content Management Tool is a web page that helps users add text, images,
